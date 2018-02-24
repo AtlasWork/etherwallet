@@ -31,7 +31,7 @@
 
 ### Our Philosophy
 
- - **Empower the people**: Give people the ability to interact with the Ethereum blockchain easily, without having to run a full node.
+ - **Empower the people**: Give people the ability to interact with the Atlas blockchain easily, without having to run a full node.
  - **Make it easy & free**: Everyone should be able to create a wallet and send WORK & Tokens without additional cost.
  - **People are the Priority**: People are the most important & their experience trumps all else. If monetization worsens the experience, we don't do it. (e.g. ads)
  - **A learning experience, too**: We want to educate about the Atlas blockchain and the WORK coin, security, privacy, the importance of controlling your own keys, how the blockchain works, and how Atlas, Ethereum and blockchain technologies enable a better world.
