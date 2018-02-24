@@ -1,48 +1,13 @@
-### [https://www.MyEtherWallet.com](https://www.MyEtherWallet.com)
-
-### [Chrome Extension](https://chrome.google.com/webstore/detail/myetherwallet-cx/nlbmnnijcnlegkjjpcfjclmcfggfefdm)
-
-### [Download the Latest Release](https://github.com/kvhnuke/etherwallet/releases/latest)
-
-- etherwallet-vX.X.X.X.zip is the smaller package containing the gh-pages branch aka MyEtherWallet.com
-- chrome-extension-vX.X.X.X.zip is the chrome extension package
-- source code is the full source for developers to get started with (although cloning or forking the mercury branch is probably a better choice)
-
-
-### MEW Around the Web
-
-- [Website: https://www.myetherwallet.com/](https://www.myetherwallet.com/)
-- [CX: https://chrome.google.com/webstore/detail/myetherwallet-cx/nlbmnnijcnlegkjjpcfjclmcfggfefdm](https://chrome.google.com/webstore/detail/myetherwallet-cx/nlbmnnijcnlegkjjpcfjclmcfggfefdm)
-- [Anti-phish CX](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn)
-- [FB: https://www.facebook.com/MyEtherWallet/](https://www.facebook.com/MyEtherWallet/)
-- [Twitter: https://twitter.com/myetherwallet](https://twitter.com/myetherwallet)
-- [Medium: https://medium.com/@myetherwallet](https://medium.com/@myetherwallet)
-- [Help Center: https://myetherwallet.groovehq.com/help_center](https://myetherwallet.groovehq.com/help_center)
-- [Github MEW Repo: https://github.com/kvhnuke/etherwallet](https://github.com/kvhnuke/etherwallet)
-- [Github MEW Org: https://github.com/MyEtherWallet](https://github.com/MyEtherWallet)
-- [Github Pages URL: https://kvhnuke.github.io/etherwallet/](https://kvhnuke.github.io/etherwallet/)
-- [Github Latest Releases: https://github.com/kvhnuke/etherwallet/releases/latest](https://github.com/kvhnuke/etherwallet/releases/latest)
-- [Github Anti-phish CX: https://github.com/409H/EtherAddressLookup](https://github.com/409H/EtherAddressLookup)
-- [Slack: https://myetherwallet.slack.com/ & https://myetherwallet.herokuapp.com/](https://myetherwallet.slack.com/ & https://myetherwallet.herokuapp.com/)
-- [Reddit: https://www.reddit.com/r/MyEtherWallet/](https://www.reddit.com/r/MyEtherWallet/)
-- [tayvano (founder) reddit: https://www.reddit.com/user/insomniasexx/](https://www.reddit.com/user/insomniasexx/)
-- [kvhnuke (founder) reddit: https://www.reddit.com/user/kvhnuke/](https://www.reddit.com/user/kvhnuke/)
-- [jordan (cmo) reddit: https://www.reddit.com/user/trogdortb001](https://www.reddit.com/user/trogdortb001)
-- [myetherwallet reddit user: https://www.reddit.com/user/myetherwallet](https://www.reddit.com/user/myetherwallet)
--  MEW ETH Donation Address: 0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D (mewtopia.eth)
--  MEW BTC Donation Address: 1DECAF2uSpFTP4L1fAHR8GCLrPqdwdLse9
-
-
-### `mercury` is the development branch. gh-pages contains only the smaller dist folder only and is served to MyEtherWallet.com
+### [https://www.AtlasWallet.work](https://www.AtlasWallet.work)
 
 - Our infrastructure ("node") is on AWS. [You can also use your own node.](https://myetherwallet.github.io/knowledge-base/networks/run-your-own-node-with-myetherwallet.html)
 - We also provide access to Infura.io & Etherscan.io nodes. Use the drop-down in the top-right.
 
+### WorkWallet
 
-### MyEtherWallet
-
-- MyEtherWallet is a free, open-source, client-side tool for easily & securely interacting with the Ethereum network. As one of the leading providers of Ethereum services, MyEtherWallet equips users with an easy-to-understand and accessible suite of tools for their needs.
+-The WorkWallet is a free, open-source, client-side tool for easily & securely interacting with the Atlas network. As one of the leading providers of WORK services, the WorkWallet equips users with an easy-to-understand and accessible suite of tools for their needs.
 - It was created and is maintained by [kvhnuke](https://github.com/kvhnuke) and [tayvano](https://github.com/tayvano).
+- It has been forked and maintained for the Atlas Blockchain by https://github.com/lismore 
 
 #### Features
 
@@ -67,9 +32,9 @@
 ### Our Philosophy
 
  - **Empower the people**: Give people the ability to interact with the Ethereum blockchain easily, without having to run a full node.
- - **Make it easy & free**: Everyone should be able to create a wallet and send Ether & Tokens without additional cost.
+ - **Make it easy & free**: Everyone should be able to create a wallet and send WORK & Tokens without additional cost.
  - **People are the Priority**: People are the most important & their experience trumps all else. If monetization worsens the experience, we don't do it. (e.g. ads)
- - **A learning experience, too**: We want to educate about Ethereum, security, privacy, the importance of controlling your own keys, how the blockchain works, and how Ethereum and blockchain technologies enable a better world.
+ - **A learning experience, too**: We want to educate about the Atlas blockchain and the WORK coin, security, privacy, the importance of controlling your own keys, how the blockchain works, and how Atlas, Ethereum and blockchain technologies enable a better world.
  - **If it can be hacked, it will be hacked**: Never save, store, or transmit secret info, like passwords or keys.
  - **Offline / Client-Side**: User should be able to run locally and offline without issue.
  - **Private**: No tracking!!! No emails. No ads. No demographics. We don't even know how many wallets have been generated, let alone who / what / where you are.
@@ -81,17 +46,17 @@
 ### Users (non-developers)
 
 - [It is recommended you start here.](https://myetherwallet.github.io/knowledge-base/getting-started/getting-started-new.html)
-- You can run MyEtherWallet.com on your computer. You can create a wallet completely offline & send transactions from the "Offline Transaction" page.
+- You can run AtlasWallet.com on your computer. You can create a wallet completely offline & send transactions from the "Offline Transaction" page.
 
-1. Go to https://github.com/kvhnuke/etherwallet/releases/latest.
+1. Go to https://github.com/AtlasWork/workwallet/releases/latest.
 2. Click on dist-vX.X.X.X.zip.
 3. Move zip to an airgapped computer.
 4. Unzip it and double-click index.html.
-5. MyEtherWallet.com is now running entirely on your computer.
+5. AtlasWallet.com is now running entirely on your computer.
 
-In case you are not familiar, you need to keep the entire folder in order to run the website, not just index.html. Don't touch or move anything around in the folder. If you are storing a backup of the MyEtherWallet repo for the future, we recommend just storing the ZIP so you can be sure the folder contents stay intact.
+In case you are not familiar, you need to keep the entire folder in order to run the website, not just index.html. Don't touch or move anything around in the folder. If you are storing a backup of the AtlasWallet repo for the future, we recommend just storing the ZIP so you can be sure the folder contents stay intact.
 
-As we are constantly updating MyEtherWallet.com, we recommend you periodically update your saved version of the repo.
+As we are constantly updating AtlasWallet.work, we recommend you periodically update your saved version of the repo.
 
 
 
@@ -102,9 +67,9 @@ As we are constantly updating MyEtherWallet.com, we recommend you periodically u
 
 If you want to help contribute, here's what you need to know to get it up and running and compiling.
 
-- Both the Chrome Extension and the MyEtherWallet.com are compiling from the same codebase. This code is found in the `app` folder. Don't touch the `dist` or `chrome-extension` folders.
+- Both the Chrome Extension and the AtlasWallet.work are compiling from the same codebase. This code is found in the `app` folder. Don't touch the `dist` or `chrome-extension` folders.
 - We use angular and bootstrap. We used to use jQuery and Bootstrap until it was converted in April 2016. If you wonder why some things are set up funky, that's why.
-- The mercury branch is currently the active development branch. We then push the dist folder live to gh-pages, which then gets served to MyEtherWallet.com.
+- The mercury branch is currently the active development branch. We then push the dist folder live to gh-pages, which then gets served to AtlasWallet.work.
 - We use npm / gulp for compiling. There is a lot of stuff happening in the compilation.
 - Old node setups can be found in in `json_relay_node` (node.js) & `json_relay_php` (php). These are great resources for developers looking to get started and launch a public node on a $40 Linode instance.
 
@@ -118,11 +83,11 @@ If you want to help contribute, here's what you need to know to get it up and ru
 - `fonts` and `images` get moved into their respective folders. This isn't watched via gulp so if you add an image or font, you need to run `gulp` again.
 - `includes` are the pieces of the pages / the pages themselves. These are pretty self-explanatory and where you will make most frontend changes.
 - `layouts` are the pages themselves. These basically take all the pieces of the pages and compile into one massive page. The navigation is also found here...sort of.
-    * `index.html` is for MyEtherWallet.com.
+    * `index.html` is for AtlasWallet.work.
     * `cx-wallet.html` is the main page for the Chrome Extension.
-    * `embedded.html` is for https://www.myetherwallet.com/embedded.html.
+    * `embedded.html` is for https://www.atlaswallet.work/embedded.html.
 
-- You can control what shows up on MyEtherWallet.com vs the Chrome Extension by using: `@@if (site === 'cx' )  {  ...  }` and `@@if (site === 'mew' ) { ... }`. Check out `sendTransaction.tpl` to see it in action. The former will only compile for the Chrome Extension. The latter only to MyEtherWallet.com.
+- You can control what shows up on AtlasWallet.work vs the Chrome Extension by using: `@@if (site === 'cx' )  {  ...  }` and `@@if (site === 'mew' ) { ... }`. Check out `sendTransaction.tpl` to see it in action. The former will only compile for the Chrome Extension. The latter only to AtlasWallet.work.
 - `embedded.html` is for embedding the wallet generation into third-party sites. [Read more about it and how to listen for the address generated here.](https://www.reddit.com/r/ethereum/comments/4gn37o/embeddable_myetherwallet_super_simple_wallet/)
 - The wallet decrypt directives are at `scripts/directives/walletDecryptDrtv.js`. These show up on a lot of pages.
 - The navigation is in `scripts/services/globalServices.js`. Again, we control which navigation items show up in which version of the site in this single file.
@@ -139,20 +104,7 @@ If you want to help contribute, here's what you need to know to get it up and ru
 
 - [Setting up on AWS super easily.](https://github.com/MyEtherWallet/docker-geth-lb)
 
-- [Running MyEtherWallet w/ Your Own Personal Node](https://myetherwallet.github.io/knowledge-base/networks/run-your-own-node-with-myetherwallet.html)
-
-- [Guide by benjaminion for MEW + Ledger Nano S + Local Parity Node](https://github.com/benjaminion/eth-parity-qnap/wiki/Connecting-to-MyEtherWallet)
-
-**Old**
-
-- https://github.com/kvhnuke/etherwallet/issues/226.
-
-- [Announcing MyEtherWallet v3.4: The Node Switcher](https://www.reddit.com/r/ethereum/comments/5lqx90/announcing_myetherwallet_v34_the_node_switcher/)**
-
-
-
-
-
+- [Running MyEtherWallet w/ Your Own Personal Node]
 
 ### How to Help Translate
 
@@ -168,7 +120,7 @@ If you want to help contribute, here's what you need to know to get it up and ru
 Anyone can help out and it looks way more complicated than it is! If you would rather not deal with Github, please send us an email to info@myetherwallet.com and I'll email you the file and you can make changes and send it back to us and I'll make sure you don't screw anything up. If you feel like experiencing something new, read on!
 
 1. Sign into your Github account or make a new Github account.
-2. Go to https://github.com/kvhnuke/etherwallet/tree/mercury/app/scripts/translations
+2. Go to https://github.com/atlaswork/workwallet/tree/mercury/app/scripts/translations
 3. Click on the language file you want to update.
 4. Look in the upper right. Click the pencil icon. This will then tell you, *"You’re editing a file in a project you don’t have write access to. We’ve created a fork of this project for you to commit your proposed changes to. Submitting a change to this file will write it to a new branch in your fork, so you can send a pull request."* Ignore it all.
 5. In your browser, start translating. Translate as little or as much as you want.
@@ -182,14 +134,14 @@ Anyone can help out and it looks way more complicated than it is! If you would r
 
 **If you are a developer and familiar with GitHub, Pull Requests, and know how to save a JS file as a .js file rather than a Word Doc:**
 
-1. Clone the [mercury branch](https://github.com/kvhnuke/etherwallet/tree/mercury).
+1. Clone the [mercury branch](https://github.com/atlaswork/workwallet/tree/mercury).
 2. Go to `/app/scripts/translations/`.
 3. Open the language you want to translate.
 4. Translate as much or as little as you wish.
 5. Add your name/username, donation address, and any notes you would like on in the translator's section, about halfway down.
 6. Open a PR and leave us a brief description of what you did and any issues you ran into or comments you have.
 
-Read more @ [Help us translate MyEtherWallet.com into ALL THE LANGUAGES!](https://www.reddit.com/r/ethereum/comments/4z55s2/help_us_translate_myetherwalletcom_into_all_the/)
+Read more @ [Help us translate AtlasWallet.com into ALL THE LANGUAGES!]
 
 
 
@@ -202,10 +154,12 @@ If you can think of any other features or run into bugs, let us know. You can fo
 
 
 
+### Announcement History from AtlasWallet.com
+
+- Initial Release
 
 
-
-### Announcement History
+### Announcement History from MyEtherWallet.com
 
 - 08/12/15: [Launch Post: Ether Wallet Generator (for now)](https://www.reddit.com/r/ethereum/comments/3gkknd/ether_wallet_generator_for_now/). Never forget where you [came from](https://ipfs.pics/ipfs/QmXFK6NBy81ibvTEwnwwEUecXiRyQBriJUnKpaCaE4w7nF).
 - 08/19/15: [ETHER WALLET- Ready for the second round?](https://www.reddit.com/r/ethereum/comments/3h6o38/ether_wallet_ready_for_the_second_round/). We the domain name & SSL.
